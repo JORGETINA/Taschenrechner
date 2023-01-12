@@ -1,6 +1,6 @@
-# tinas-cool-app
+# Mein Taschenrechner
 
-This template should help get you started developing with Vue 3 in Vite.
+A calculater created with vue js
 
 ## Recommended IDE Setup
 
